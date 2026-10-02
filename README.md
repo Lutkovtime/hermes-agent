@@ -4,6 +4,7 @@ Two static pages required by the Google OAuth consent screen configuration:
 
 - `index.html` — what this app is (personal, single-user automation tool)
 - `privacy.html` — privacy policy
+- `terms.html` — terms of use
 
 Published via GitHub Pages: <https://lutkovtime.github.io/hermes-agent/>
 
